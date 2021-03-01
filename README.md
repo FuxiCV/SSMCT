@@ -47,7 +47,7 @@ We also evaluate our method on the [Anidance dataset](https://github.com/Music-t
 
 ## <u>Dance blending</u>
 
-Our method can also works on complex dance movement completion:
+Our method can also work on complex dance movement completion:
 
 <img src="images/blending_00.gif" width="600px" alt="demo10" />
 
