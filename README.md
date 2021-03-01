@@ -1,8 +1,6 @@
 # Single-Shot Motion Completion with Transformer
 
-
-![pipline](images/pipeline.png)
-
+<img src="images/pipeline.png" width="600px" alt="pipline" />
 
 ## <u>Abstract</u>
 
@@ -21,12 +19,11 @@ With the help of Transformer, we achieve a new SOTA result on [Lafan1 dataset](h
 
 * Some results (blue appearaces represent keyframes):
 
-<img src="images/lafan1_demo_000.gif" width="300px" alt="demo0" />
-<img src="images/lafan1_demo_001.gif" width="300px" alt="demo1" />
-<img src="images/lafan1_demo_002.gif" width="300px" alt="demo2" />
-<img src="images/lafan1_demo_003.gif" width="300px" alt="demo3" />
-<img src="images/lafan1_demo_004.gif" width="300px" alt="demo4" />
-<img src="images/lafan1_demo_005.gif" width="300px" alt="demo5" />
+<img src="images/lafan1_demo_000.gif" width="300px" alt="demo0" /> <img src="images/lafan1_demo_001.gif" width="300px" alt="demo1" />
+
+<img src="images/lafan1_demo_002.gif" width="300px" alt="demo2" /> <img src="images/lafan1_demo_003.gif" width="300px" alt="demo3" />
+
+<img src="images/lafan1_demo_004.gif" width="300px" alt="demo4" /> <img src="images/lafan1_demo_005.gif" width="300px" alt="demo5" />
 
 ## <u>Dance Infilling on Anidance Dataset</u>
 
