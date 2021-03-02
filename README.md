@@ -57,4 +57,16 @@ Our method can also work on complex dance movement completion:
 
 ## <u>Code</u>
 
-*Coming soon !*
+*Coming soon*
+
+## <u>Citation</u>
+```
+@misc{duan2021singleshot,
+      title={Single-Shot Motion Completion with Transformer}, 
+      author={Yinglin Duan and Tianyang Shi and Zhengxia Zou and Yenan Lin and Zhehui Qian and Bohan Zhang and Yi Yuan},
+      year={2021},
+      eprint={2103.00776},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
